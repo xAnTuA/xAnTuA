@@ -1,6 +1,15 @@
-# AnTuA
+<h1 align="center"><strong>AnTuA</strong></h1>
 
-## Hi there 👋
+<details>
+  <summary> 
+    <p>Hello! <br>  I'm 19 year's old beginner programmer, studying this field in Polish high school.  <!-- TODO: crete auto update age -->
+  </summary>
+    <h4>P.S.</h4>
+      I have one years to go, and the main thing i learned is how to be ineffective.</p>
+  
+  <h3 align="center">Currently working on</h1>
+</details>
+
 
 <!--
 **xAnTuA/xAnTuA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
