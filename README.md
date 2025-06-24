@@ -20,5 +20,5 @@
     
 <br>
 <h2>🤔 Thinking about...</h2>
-  Universal communication / programming medium.
+  (Secret)
 </details>
